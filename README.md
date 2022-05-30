@@ -38,11 +38,11 @@
 
 
 # 🔭 I’m currently working on ...
-### Human Pose Estimation using Pytorch  
+### Reasearch about Human pose estimation in Intelligent and Interactive Systems Lab
 
 
 # 🌱 I’m currently learning ...
-### How to adapt deep learning on real world  
+### How to adopt deep learning on real world  
 
 
 # 📫 How to reach me: ...
