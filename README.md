@@ -38,7 +38,7 @@
 
 
 # 🔭 I’m currently working on ...
-### Reasearch about Human pose estimation in Intelligent and Interactive Systems Lab
+### Reasearching at SKKU Intelligent and Interactive Systems Lab
 
 
 # 🌱 I’m currently learning ...
@@ -47,5 +47,3 @@
 
 # 📫 How to reach me: ...
 inpyosong.deep@gmail.com
-
-puppymon@kau.kr
