@@ -1,1 +1,2 @@
-# 🌱 [About me](https://songinpyo.github.io/)
+# 🌱 About me ...
+### [Check my blog.](https://songinpyo.github.io/)
