@@ -1,6 +1,6 @@
 ### Inpyo Song | @Songinpyo
 
-- 👋 Hello! I am a M.Sc. student at SKKU (Sungkyunkwan University) advised Prof. Jangwon Lee
+- 👋 Hello! I am a Ph.D student at SKKU (Sungkyunkwan University) advised Prof. Jangwon Lee
 - 🌱 My main areas of interest include 
   - vision systems that can operate reliably in complex real-world environments
   - leveraging temporal dynamics in video
